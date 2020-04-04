@@ -1,373 +1,449 @@
 #EXTM3U
-#EXTINF:-1,6 TV
-http://188.27.9.55:9981/stream/channelid/270299477
-#EXTINF:-1,Agro TV
-http://188.27.9.55:9981/stream/channelid/785234271
-#EXTINF:-1,Alfa Omega
-http://188.27.9.55:9981/stream/channelid/298756577
-#EXTINF:-1,AMC
-http://188.27.9.55:9981/stream/channelid/448361459
-#EXTINF:-1,AMC HD
-http://188.27.9.55:9981/stream/channelid/514584255
-#EXTINF:-1,Antena 1
-http://188.27.9.55:9981/stream/channelid/749480483
+#EXTINF:-1,#### RomaniaTV ####
+http://stellar.iptv.life:8000/marius123/marius123/2
+#EXTINF:-1,PRO TV ULTRA_HD
+http://stellar.iptv.life:8000/marius123/marius123/11
+#EXTINF:-1,Pro Tv HD
+http://stellar.iptv.life:8000/marius123/marius123/12
+#EXTINF:-1,Pro Tv
+http://stellar.iptv.life:8000/marius123/marius123/13
+#EXTINF:-1,Antena 1 ULTRA_HD
+http://stellar.iptv.life:8000/marius123/marius123/14
 #EXTINF:-1,Antena 1 HD
-http://188.27.9.55:9981/stream/channelid/40019151
+http://stellar.iptv.life:8000/marius123/marius123/15
+#EXTINF:-1,Antena 1
+http://stellar.iptv.life:8000/marius123/marius123/16
+#EXTINF:-1,Antena 3 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/17
 #EXTINF:-1,Antena 3
-http://188.27.9.55:9981/stream/channelid/1837005692
-#EXTINF:-1,Antena 3 HD
-http://188.27.9.55:9981/stream/channelid/593185167
-#EXTINF:-1,Antena Stars
-http://188.27.9.55:9981/stream/channelid/1723969829
-#EXTINF:-1,Antena Stars HD
-http://188.27.9.55:9981/stream/channelid/511904656
-#EXTINF:-1,AXN
-http://188.27.9.55:9981/stream/channelid/1648942616
-#EXTINF:-1,AXN Black
-http://188.27.9.55:9981/stream/channelid/1619461883
-#EXTINF:-1,AXN HD
-http://188.27.9.55:9981/stream/channelid/1948403686
-#EXTINF:-1,AXN Spin
-http://188.27.9.55:9981/stream/channelid/1468821418
-#EXTINF:-1,AXN White
-http://188.27.9.55:9981/stream/channelid/1096837256
-#EXTINF:-1,B1
-http://188.27.9.55:9981/stream/channelid/2137814309
-#EXTINF:-1,BBC Earth
-http://188.27.9.55:9981/stream/channelid/1455824773
-#EXTINF:-1,BBC Earth HD
-http://188.27.9.55:9981/stream/channelid/77201771
-#EXTINF:-1,BBC World News
-http://188.27.9.55:9981/stream/channelid/1186074734
-#EXTINF:-1,Bollywood HD
-http://188.27.9.55:9981/stream/channelid/1931212561
-#EXTINF:-1,Bollywood TV
-http://188.27.9.55:9981/stream/channelid/841886673
-#EXTINF:-1,Boomerang
-http://188.27.9.55:9981/stream/channelid/1532112186
-#EXTINF:-1,Bucuresti TV
-http://188.27.9.55:9981/stream/channelid/1827615085
-#EXTINF:-1,Canal 33
-http://188.27.9.55:9981/stream/channelid/1526344367
-#EXTINF:-1,Cartoon Network
-http://188.27.9.55:9981/stream/channelid/282327187
-#EXTINF:-1,CBS Reality
-http://188.27.9.55:9981/stream/channelid/2008623577
-#EXTINF:-1,CGTN
-http://188.27.9.55:9981/stream/channelid/1633939209
-#EXTINF:-1,Chill FM
-http://188.27.9.55:9981/stream/channelid/646339066
-#EXTINF:-1,Cinemaraton
-http://188.27.9.55:9981/stream/channelid/488633195
-#EXTINF:-1,Cinemaraton HD
-http://188.27.9.55:9981/stream/channelid/2146852449
-#EXTINF:-1,Cinemax
-http://188.27.9.55:9981/stream/channelid/1283796556
-#EXTINF:-1,Cinemax 2
-http://188.27.9.55:9981/stream/channelid/1662601784
-#EXTINF:-1,Cinemax HD
-http://188.27.9.55:9981/stream/channelid/1474026874
-#EXTINF:-1,Cinemax2 HD
-http://188.27.9.55:9981/stream/channelid/580003482
-#EXTINF:-1,CINETHRONIX
-http://188.27.9.55:9981/stream/channelid/197325801
-#EXTINF:-1,CNN
-http://188.27.9.55:9981/stream/channelid/693299042
-#EXTINF:-1,Comedy Central
-http://188.27.9.55:9981/stream/channelid/526711195
-#EXTINF:-1,ComedyEst
-http://188.27.9.55:9981/stream/channelid/287027786
-#EXTINF:-1,Credo TV
-http://188.27.9.55:9981/stream/channelid/1541027861
-#EXTINF:-1,Dance FM
-http://188.27.9.55:9981/stream/channelid/1787391089
-#EXTINF:-1,DaVinci
-http://188.27.9.55:9981/stream/channelid/1767801375
-#EXTINF:-1,DIGI 24
-http://188.27.9.55:9981/stream/channelid/169887177
-#EXTINF:-1,DIGI 24 HD
-http://188.27.9.55:9981/stream/channelid/895710166
-#EXTINF:-1,DIGI 4K
-http://188.27.9.55:9981/stream/channelid/1949018997
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://188.27.9.55:9981/stream/channelid/1127760944
-#EXTINF:-1,DIGI ANIMAL WORLD HD
-http://188.27.9.55:9981/stream/channelid/256009003
-#EXTINF:-1,Digi FM
-http://188.27.9.55:9981/stream/channelid/410190016
-#EXTINF:-1,DIGI Life
-http://188.27.9.55:9981/stream/channelid/1760489019
-#EXTINF:-1,DIGI Life HD
-http://188.27.9.55:9981/stream/channelid/1586823090
-#EXTINF:-1,DIGI Sport 1
-http://188.27.9.55:9981/stream/channelid/297933289
-#EXTINF:-1,DIGI Sport 1 HD
-http://188.27.9.55:9981/stream/channelid/1596709012
-#EXTINF:-1,DIGI Sport 2
-http://188.27.9.55:9981/stream/channelid/1149868257
-#EXTINF:-1,DIGI Sport 2 HD
-http://188.27.9.55:9981/stream/channelid/389845383
-#EXTINF:-1,DIGI Sport 3
-http://188.27.9.55:9981/stream/channelid/1948550929
-#EXTINF:-1,DIGI Sport 3 HD
-http://188.27.9.55:9981/stream/channelid/1191114645
-#EXTINF:-1,DIGI Sport 4
-http://188.27.9.55:9981/stream/channelid/1815684038
-#EXTINF:-1,DIGI Sport 4 HD
-http://188.27.9.55:9981/stream/channelid/1680422677
-#EXTINF:-1,DIGI WORLD
-http://188.27.9.55:9981/stream/channelid/781056236
-#EXTINF:-1,DIGI WORLD HD
-http://188.27.9.55:9981/stream/channelid/392380230
-#EXTINF:-1,Discovery HD
-http://188.27.9.55:9981/stream/channelid/1932962661
-#EXTINF:-1,Discovery Ro
-http://188.27.9.55:9981/stream/channelid/434256200
-#EXTINF:-1,Disney Channel
-http://188.27.9.55:9981/stream/channelid/1329084376
-#EXTINF:-1,Disney Junior
-http://188.27.9.55:9981/stream/channelid/1289225518
-#EXTINF:-1,Diva
-http://188.27.9.55:9981/stream/channelid/1058709822
-#EXTINF:-1,Duck TV
-http://188.27.9.55:9981/stream/channelid/59602624
-#EXTINF:-1,Duna
-http://188.27.9.55:9981/stream/channelid/1403963935
-#EXTINF:-1,DW Deutsch
-http://188.27.9.55:9981/stream/channelid/31974176
-#EXTINF:-1,E! Entertainment
-http://188.27.9.55:9981/stream/channelid/302516526
-#EXTINF:-1,E! Entertainment HD
-http://188.27.9.55:9981/stream/channelid/2085057472
-#EXTINF:-1,Epic Drama
-http://188.27.9.55:9981/stream/channelid/239310338
-#EXTINF:-1,Etno
-http://188.27.9.55:9981/stream/channelid/496508272
-#EXTINF:-1,Europa FM
-http://188.27.9.55:9981/stream/channelid/696206879
-#EXTINF:-1,Eurosport
-http://188.27.9.55:9981/stream/channelid/1683823569
-#EXTINF:-1,Eurosport 2
-http://188.27.9.55:9981/stream/channelid/1251851481
-#EXTINF:-1,Eurosport 2 HD
-http://188.27.9.55:9981/stream/channelid/1760359889
-#EXTINF:-1,Eurosport 4K
-http://188.27.9.55:9981/stream/channelid/778858014
-#EXTINF:-1,Eurosport HD
-http://188.27.9.55:9981/stream/channelid/812490795
-#EXTINF:-1,Fashion TV
-http://188.27.9.55:9981/stream/channelid/1518524895
-#EXTINF:-1,Favorit TV
-http://188.27.9.55:9981/stream/channelid/302796581
-#EXTINF:-1,Film Cafe
-http://188.27.9.55:9981/stream/channelid/807531532
-#EXTINF:-1,Film Now
-http://188.27.9.55:9981/stream/channelid/1574116025
-#EXTINF:-1,Film Now HD
-http://188.27.9.55:9981/stream/channelid/554635081
-#EXTINF:-1,Fishing and Hunting
-http://188.27.9.55:9981/stream/channelid/1840906808
-#EXTINF:-1,Happy Channel
-http://188.27.9.55:9981/stream/channelid/522187210
-#EXTINF:-1,Happy Channel HD
-http://188.27.9.55:9981/stream/channelid/2132246357
-#EXTINF:-1,HBO 2
-http://188.27.9.55:9981/stream/channelid/1943191504
-#EXTINF:-1,HBO 3
-http://188.27.9.55:9981/stream/channelid/1339011689
-#EXTINF:-1,HBO HD
-http://188.27.9.55:9981/stream/channelid/1670963131
-#EXTINF:-1,HBO Romania
-http://188.27.9.55:9981/stream/channelid/844600859
-#EXTINF:-1,HBO2 HD
-http://188.27.9.55:9981/stream/channelid/1974877466
-#EXTINF:-1,HBO3 HD
-http://188.27.9.55:9981/stream/channelid/174111756
-#EXTINF:-1,HGTV
-http://188.27.9.55:9981/stream/channelid/1499190972
-#EXTINF:-1,HGTV HD
-http://188.27.9.55:9981/stream/channelid/1168779558
-#EXTINF:-1,History Channel
-http://188.27.9.55:9981/stream/channelid/682064952
-#EXTINF:-1,History HD
-http://188.27.9.55:9981/stream/channelid/1431566174
-#EXTINF:-1,HIT MUSIC
-http://188.27.9.55:9981/stream/channelid/292578847
-#EXTINF:-1,Hora TV
-http://188.27.9.55:9981/stream/channelid/243717401
-#EXTINF:-1,Inedit TV
-http://188.27.9.55:9981/stream/channelid/991310820
-#EXTINF:-1,JimJam
-http://188.27.9.55:9981/stream/channelid/2017024486
-#EXTINF:-1,Kanal D
-http://188.27.9.55:9981/stream/channelid/331137712
+http://stellar.iptv.life:8000/marius123/marius123/18
+#EXTINF:-1,Antena Stars ULTRA_HD
+http://stellar.iptv.life:8000/marius123/marius123/19
+#EXTINF:-1,Antena STARS
+http://stellar.iptv.life:8000/marius123/marius123/20
+#EXTINF:-1,Kanal D Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/21
 #EXTINF:-1,Kanal D HD
-http://188.27.9.55:9981/stream/channelid/1856626691
-#EXTINF:-1,Kapital TV
-http://188.27.9.55:9981/stream/channelid/2095142069
-#EXTINF:-1,Kiss FM
-http://188.27.9.55:9981/stream/channelid/1144067485
-#EXTINF:-1,KISS TV
-http://188.27.9.55:9981/stream/channelid/1941435830
-#EXTINF:-1,LookPlus
-http://188.27.9.55:9981/stream/channelid/1403937632
-#EXTINF:-1,LookSport
-http://188.27.9.55:9981/stream/channelid/1276863764
-#EXTINF:-1,M2 Europe
-http://188.27.9.55:9981/stream/channelid/486190336
-#EXTINF:-1,MAGIC TV
-http://188.27.9.55:9981/stream/channelid/1024853117
-#EXTINF:-1,Magyar ATV
-http://188.27.9.55:9981/stream/channelid/102105782
-#EXTINF:-1,MEDIKA TV
-http://188.27.9.55:9981/stream/channelid/1534412440
-#EXTINF:-1,MEZZO
-http://188.27.9.55:9981/stream/channelid/1054658140
-#EXTINF:-1,Minimax
-http://188.27.9.55:9981/stream/channelid/1559644255
-#EXTINF:-1,MTV Europe
-http://188.27.9.55:9981/stream/channelid/405372437
-#EXTINF:-1,Music Channel Ro
-http://188.27.9.55:9981/stream/channelid/1319824867
-#EXTINF:-1,Nasul TV
-http://188.27.9.55:9981/stream/channelid/1755192427
-#EXTINF:-1,Nat Geo
-http://188.27.9.55:9981/stream/channelid/827393242
-#EXTINF:-1,Nat Geo HD
-http://188.27.9.55:9981/stream/channelid/1998852271
-#EXTINF:-1,Nat Geo Wild
-http://188.27.9.55:9981/stream/channelid/436921817
-#EXTINF:-1,Nat Geo Wild HD
-http://188.27.9.55:9981/stream/channelid/1978247227
-#EXTINF:-1,National 24 Plus
-http://188.27.9.55:9981/stream/channelid/1484868643
-#EXTINF:-1,National TV
-http://188.27.9.55:9981/stream/channelid/1763404609
-#EXTINF:-1,NCN
-http://188.27.9.55:9981/stream/channelid/1851430064
-#EXTINF:-1,Nick Jr
-http://188.27.9.55:9981/stream/channelid/286290395
-#EXTINF:-1,Nickelodeon
-http://188.27.9.55:9981/stream/channelid/308872711
-#EXTINF:-1,Nicktoons
-http://188.27.9.55:9981/stream/channelid/258345505
-#EXTINF:-1,Orizont TV
-http://188.27.9.55:9981/stream/channelid/378474330
-#EXTINF:-1,Paramount Channel
-http://188.27.9.55:9981/stream/channelid/475364709
-#EXTINF:-1,PRIMA TV
-http://188.27.9.55:9981/stream/channelid/1123823679
+http://stellar.iptv.life:8000/marius123/marius123/22
+#EXTINF:-1,KANAL D
+http://stellar.iptv.life:8000/marius123/marius123/23
+#EXTINF:-1,PRO 2 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/24
 #EXTINF:-1,PRO 2
-http://188.27.9.55:9981/stream/channelid/1536165074
-#EXTINF:-1,PRO 2 HD
-http://188.27.9.55:9981/stream/channelid/1438789909
-#EXTINF:-1,PRO CINEMA
-http://188.27.9.55:9981/stream/channelid/529870643
-#EXTINF:-1,Pro FM
-http://188.27.9.55:9981/stream/channelid/1831795718
-#EXTINF:-1,PRO GOLD
-http://188.27.9.55:9981/stream/channelid/1724370471
-#EXTINF:-1,PRO TV
-http://188.27.9.55:9981/stream/channelid/1920402295
-#EXTINF:-1,PRO TV HD
-http://188.27.9.55:9981/stream/channelid/401768863
-#EXTINF:-1,PRO X
-http://188.27.9.55:9981/stream/channelid/1714111560
-#EXTINF:-1,PRO X HD
-http://188.27.9.55:9981/stream/channelid/1632742679
-#EXTINF:-1,Profit Tv
-http://188.27.9.55:9981/stream/channelid/1069428227
-#EXTINF:-1,Radio Guerilla
-http://188.27.9.55:9981/stream/channelid/1650844828
-#EXTINF:-1,Radio Impuls
-http://188.27.9.55:9981/stream/channelid/469515600
-#EXTINF:-1,Radio Maria Ro
-http://188.27.9.55:9981/stream/channelid/1224195335
-#EXTINF:-1,Radio Romania Actualitati
-http://188.27.9.55:9981/stream/channelid/1463648650
-#EXTINF:-1,Radio Sport Total
-http://188.27.9.55:9981/stream/channelid/844069229
-#EXTINF:-1,Radio ZU
-http://188.27.9.55:9981/stream/channelid/878365971
-#EXTINF:-1,Rai 1
-http://188.27.9.55:9981/stream/channelid/541038780
-#EXTINF:-1,Rai 3
-http://188.27.9.55:9981/stream/channelid/16489108
+http://stellar.iptv.life:8000/marius123/marius123/25
+#EXTINF:-1,Happy Channel Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/26
+#EXTINF:-1,Happy Channel
+http://stellar.iptv.life:8000/marius123/marius123/27
+#EXTINF:-1,Timeless Drama Channel HD
+http://stellar.iptv.life:8000/marius123/marius123/1506
+#EXTINF:-1,Timeless Drama Channel
+http://stellar.iptv.life:8000/marius123/marius123/1505
+#EXTINF:-1,Pro Gold
+http://stellar.iptv.life:8000/marius123/marius123/28
+#EXTINF:-1,Pro Cinema
+http://stellar.iptv.life:8000/marius123/marius123/29
+#EXTINF:-1,Romania tv
+http://stellar.iptv.life:8000/marius123/marius123/30
 #EXTINF:-1,Realitatea Plus
-http://188.27.9.55:9981/stream/channelid/185254329
-#EXTINF:-1,ROCK TV
-http://188.27.9.55:9981/stream/channelid/251284103
-#EXTINF:-1,RomaniaTV
-http://188.27.9.55:9981/stream/channelid/1188259249
-#EXTINF:-1,RTL Television
-http://188.27.9.55:9981/stream/channelid/661682169
-#EXTINF:-1,Smart Radio
-http://188.27.9.55:9981/stream/channelid/3093309
-#EXTINF:-1,SperantaTV
-http://188.27.9.55:9981/stream/channelid/1010960112
-#EXTINF:-1,SUPER RTL
-http://188.27.9.55:9981/stream/channelid/220345429
-#EXTINF:-1,SuperOne
-http://188.27.9.55:9981/stream/channelid/1544496016
-#EXTINF:-1,SuperONE HD
-http://188.27.9.55:9981/stream/channelid/1815672081
-#EXTINF:-1,Taraf TV
-http://188.27.9.55:9981/stream/channelid/655671437
-#EXTINF:-1,Telestar1
-http://188.27.9.55:9981/stream/channelid/593926558
-#EXTINF:-1,TLC
-http://188.27.9.55:9981/stream/channelid/497643145
-#EXTINF:-1,TNT
-http://188.27.9.55:9981/stream/channelid/1917606294
-#EXTINF:-1,Travel
-http://188.27.9.55:9981/stream/channelid/1033888890
-#EXTINF:-1,Travel Channel HD
-http://188.27.9.55:9981/stream/channelid/777444010
-#EXTINF:-1,Travel Mix
-http://188.27.9.55:9981/stream/channelid/1025939241
-#EXTINF:-1,Trinitas
-http://188.27.9.55:9981/stream/channelid/701563910
-#EXTINF:-1,TV CITY
-http://188.27.9.55:9981/stream/channelid/980398160
-#EXTINF:-1,TV Paprika
-http://188.27.9.55:9981/stream/channelid/2110658294
-#EXTINF:-1,TV1000
-http://188.27.9.55:9981/stream/channelid/1234156527
-#EXTINF:-1,TV5 MONDE
-http://188.27.9.55:9981/stream/channelid/125885864
-#EXTINF:-1,TVR 1
-http://188.27.9.55:9981/stream/channelid/336804503
-#EXTINF:-1,TVR 2
-http://188.27.9.55:9981/stream/channelid/1209456515
+http://stellar.iptv.life:8000/marius123/marius123/31
+#EXTINF:-1,ProTv News
+http://stellar.iptv.life:8000/marius123/marius123/32
+#EXTINF:-1,Antena Play Cook
+http://stellar.iptv.life:8000/marius123/marius123/33
+#EXTINF:-1,Antena Play Comedy
+http://stellar.iptv.life:8000/marius123/marius123/34
+#EXTINF:-1,N 24
+http://stellar.iptv.life:8000/marius123/marius123/35
+#EXTINF:-1,National 24 Plus
+http://stellar.iptv.life:8000/marius123/marius123/36
+#EXTINF:-1,Digi 24 F_HD
+http://stellar.iptv.life:8000/marius123/marius123/37
+#EXTINF:-1,Digi 24
+http://stellar.iptv.life:8000/marius123/marius123/38
+#EXTINF:-1,Prima TV
+http://stellar.iptv.life:8000/marius123/marius123/39
+#EXTINF:-1,B1 Tv
+http://stellar.iptv.life:8000/marius123/marius123/40
+#EXTINF:-1,National TV
+http://stellar.iptv.life:8000/marius123/marius123/41
+#EXTINF:-1,TVR Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/42
 #EXTINF:-1,TVR 3
-http://188.27.9.55:9981/stream/channelid/689075425
-#EXTINF:-1,TVR1 HD
-http://188.27.9.55:9981/stream/channelid/1769229045
-#EXTINF:-1,TVR2 HD
-http://188.27.9.55:9981/stream/channelid/1626190444
-#EXTINF:-1,TVSudEst
-http://188.27.9.55:9981/stream/channelid/1494668295
-#EXTINF:-1,UTV
-http://188.27.9.55:9981/stream/channelid/1916858591
-#EXTINF:-1,UTV HD
-http://188.27.9.55:9981/stream/channelid/1148234482
-#EXTINF:-1,VH1
-http://188.27.9.55:9981/stream/channelid/1609548755
-#EXTINF:-1,Viasat Explore
-http://188.27.9.55:9981/stream/channelid/1014226925
-#EXTINF:-1,Viasat Explore HD
-http://188.27.9.55:9981/stream/channelid/139162219
+http://stellar.iptv.life:8000/marius123/marius123/43
+#EXTINF:-1,TVR 2
+http://stellar.iptv.life:8000/marius123/marius123/44
+#EXTINF:-1,TVR 1
+http://stellar.iptv.life:8000/marius123/marius123/45
+#EXTINF:-1,TVR Craiova
+http://stellar.iptv.life:8000/marius123/marius123/46
+#EXTINF:-1,TVR International
+http://stellar.iptv.life:8000/marius123/marius123/47
+#EXTINF:-1,Protv International
+http://stellar.iptv.life:8000/marius123/marius123/48
+#EXTINF:-1,Antena International
+http://stellar.iptv.life:8000/marius123/marius123/49
+#EXTINF:-1,DIGI Sport 1 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/50
+#EXTINF:-1,DIGI Sport 1 HD
+http://stellar.iptv.life:8000/marius123/marius123/51
+#EXTINF:-1,DIGI Sport 1
+http://stellar.iptv.life:8000/marius123/marius123/52
+#EXTINF:-1,DIGI Sport 2 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/53
+#EXTINF:-1,DIGI Sport 2
+http://stellar.iptv.life:8000/marius123/marius123/54
+#EXTINF:-1,DIGI Sport 3 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/55
+#EXTINF:-1,DIGI Sport 3
+http://stellar.iptv.life:8000/marius123/marius123/56
+#EXTINF:-1,DIGI Sport 4 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/57
+#EXTINF:-1,DIGI Sport 4
+http://stellar.iptv.life:8000/marius123/marius123/58
+#EXTINF:-1,Telekom Sport 1 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/59
+#EXTINF:-1,Telekom Sport 1 HD
+http://stellar.iptv.life:8000/marius123/marius123/60
+#EXTINF:-1,Telekom Sport 1
+http://stellar.iptv.life:8000/marius123/marius123/61
+#EXTINF:-1,Telekom Sport 2 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/62
+#EXTINF:-1,Telekom Sport 2
+http://stellar.iptv.life:8000/marius123/marius123/63
+#EXTINF:-1,Telekom Sport 3 ULTRA_HD
+http://stellar.iptv.life:8000/marius123/marius123/64
+#EXTINF:-1,Telekom Sport 3
+http://stellar.iptv.life:8000/marius123/marius123/65
+#EXTINF:-1,Telekom Sport 4 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/66
+#EXTINF:-1,Telekom Sport 4
+http://stellar.iptv.life:8000/marius123/marius123/67
+#EXTINF:-1,sport 4K
+http://stellar.iptv.life:8000/marius123/marius123/10
+#EXTINF:-1,Sport 1 Romania FHD
+http://stellar.iptv.life:8000/marius123/marius123/68
+#EXTINF:-1,sport 1 Ultra_ HD
+http://stellar.iptv.life:8000/marius123/marius123/69
+#EXTINF:-1,sport 1
+http://stellar.iptv.life:8000/marius123/marius123/70
+#EXTINF:-1,sport 2 Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/71
+#EXTINF:-1,sport 2 Romania
+http://stellar.iptv.life:8000/marius123/marius123/72
+#EXTINF:-1,Look Plus HD
+http://stellar.iptv.life:8000/marius123/marius123/73
+#EXTINF:-1,Look Plus
+http://stellar.iptv.life:8000/marius123/marius123/74
+#EXTINF:-1,Look Sport HD
+http://stellar.iptv.life:8000/marius123/marius123/75
+#EXTINF:-1,Look Sport 2 HD
+http://stellar.iptv.life:8000/marius123/marius123/76
+#EXTINF:-1,Look Sport 3 HD
+http://stellar.iptv.life:8000/marius123/marius123/77
+#EXTINF:-1,Look TV
+http://stellar.iptv.life:8000/marius123/marius123/78
+#EXTINF:-1,PRO X HD
+http://stellar.iptv.life:8000/marius123/marius123/79
+#EXTINF:-1,PRO X
+http://stellar.iptv.life:8000/marius123/marius123/80
+#EXTINF:-1,Auto Motor Sport
+http://stellar.iptv.life:8000/marius123/marius123/81
+#EXTINF:-1,Fight Box
+http://stellar.iptv.life:8000/marius123/marius123/82
+#EXTINF:-1,FolclorTV HD
+http://stellar.iptv.life:8000/marius123/marius123/1
+#EXTINF:-1,FolclorTV Action HD
+http://stellar.iptv.life:8000/marius123/marius123/83
+#EXTINF:-1,FolclorTV SCI-FI HD
+http://stellar.iptv.life:8000/marius123/marius123/84
+#EXTINF:-1,LunaTv PREMIERE HD
+http://stellar.iptv.life:8000/marius123/marius123/85
+#EXTINF:-1,LunaTv Action HD
+http://stellar.iptv.life:8000/marius123/marius123/86
+#EXTINF:-1,LunaTv SCI-FI HD
+http://stellar.iptv.life:8000/marius123/marius123/87
+#EXTINF:-1,LunaTv Horror HD
+http://stellar.iptv.life:8000/marius123/marius123/88
+#EXTINF:-1,LunaTV 4K
+http://stellar.iptv.life:8000/marius123/marius123/89
+#EXTINF:-1,LunaTv Comedy HD
+http://stellar.iptv.life:8000/marius123/marius123/90
+#EXTINF:-1,LunaTv BOLLYWOOD
+http://stellar.iptv.life:8000/marius123/marius123/91
+#EXTINF:-1,LunaTv HD FilmeRO
+http://stellar.iptv.life:8000/marius123/marius123/92
+#EXTINF:-1,Boom TV HD
+http://stellar.iptv.life:8000/marius123/marius123/4781
+#EXTINF:-1,HDNet Premiere
+http://stellar.iptv.life:8000/marius123/marius123/93
+#EXTINF:-1,HDNet Action
+http://stellar.iptv.life:8000/marius123/marius123/94
+#EXTINF:-1,HDNet Thriller
+http://stellar.iptv.life:8000/marius123/marius123/95
+#EXTINF:-1,HDNet Comedy
+http://stellar.iptv.life:8000/marius123/marius123/96
+#EXTINF:-1,HDNet Sci-Fi
+http://stellar.iptv.life:8000/marius123/marius123/97
+#EXTINF:-1,HDNet Horror
+http://stellar.iptv.life:8000/marius123/marius123/98
+#EXTINF:-1,HDNet Bollywood
+http://stellar.iptv.life:8000/marius123/marius123/100
+#EXTINF:-1,HDNet LasFierbinti
+http://stellar.iptv.life:8000/marius123/marius123/101
+#EXTINF:-1,HDNetRO iUmor
+http://stellar.iptv.life:8000/marius123/marius123/103
+#EXTINF:-1,HDNet Moldovenii TVSeries
+http://stellar.iptv.life:8000/marius123/marius123/4762
+#EXTINF:-1,HDNet JeanClaudeVanDamme
+http://stellar.iptv.life:8000/marius123/marius123/99
+#EXTINF:-1,HDNet ArnoldSchwarzenegger
+http://stellar.iptv.life:8000/marius123/marius123/104
+#EXTINF:-1,HDNet JasonStatham
+http://stellar.iptv.life:8000/marius123/marius123/2789
+#EXTINF:-1,24/7 Visuri la cheie (TV show)
+http://stellar.iptv.life:8000/marius123/marius123/2072
+#EXTINF:-1,24/7 Vocea Romaniei
+http://stellar.iptv.life:8000/marius123/marius123/2223
+#EXTINF:-1,24/7 În puii mei (TV show)
+http://stellar.iptv.life:8000/marius123/marius123/2783
+#EXTINF:-1,HDNet Kids
+http://stellar.iptv.life:8000/marius123/marius123/105
+#EXTINF:-1,Magura Media 4k
+http://stellar.iptv.life:8000/marius123/marius123/106
+#EXTINF:-1,Magura Media Action
+http://stellar.iptv.life:8000/marius123/marius123/107
+#EXTINF:-1,Magura Media Comedy
+http://stellar.iptv.life:8000/marius123/marius123/108
+#EXTINF:-1,Magura Media Van Damme
+http://stellar.iptv.life:8000/marius123/marius123/109
+#EXTINF:-1,Magura Media Kung Fu
+http://stellar.iptv.life:8000/marius123/marius123/110
+#EXTINF:-1,Magura SylvesterStallone
+http://stellar.iptv.life:8000/marius123/marius123/111
+#EXTINF:-1,Magura JetLi&BruceLee
+http://stellar.iptv.life:8000/marius123/marius123/112
+#EXTINF:-1,Magura KeanuReeves
+http://stellar.iptv.life:8000/marius123/marius123/113
+#EXTINF:-1,Magura FamilyTime
+http://stellar.iptv.life:8000/marius123/marius123/245
+#EXTINF:-1,Magura Media Istoric
+http://stellar.iptv.life:8000/marius123/marius123/114
+#EXTINF:-1,Magura Media Cinema
+http://stellar.iptv.life:8000/marius123/marius123/115
+#EXTINF:-1,Magura Media Supereroi
+http://stellar.iptv.life:8000/marius123/marius123/116
+#EXTINF:-1,MaguraMedia LasFirebinti
+http://stellar.iptv.life:8000/marius123/marius123/117
+#EXTINF:-1,Magura Media Bollywood
+http://stellar.iptv.life:8000/marius123/marius123/118
+#EXTINF:-1,Magura Media Kids
+http://stellar.iptv.life:8000/marius123/marius123/119
+#EXTINF:-1, Magura Media Iumor
+http://stellar.iptv.life:8000/marius123/marius123/120
+#EXTINF:-1,Magura Media Horror
+http://stellar.iptv.life:8000/marius123/marius123/121
+#EXTINF:-1,Magura Media FilmeRO
+http://stellar.iptv.life:8000/marius123/marius123/122
+#EXTINF:-1,Mega-Sacrificiul
+http://stellar.iptv.life:8000/marius123/marius123/123
+#EXTINF:-1,Mega SerieVLAD
+http://stellar.iptv.life:8000/marius123/marius123/124
+#EXTINF:-1,MEGA JokeBattle
+http://stellar.iptv.life:8000/marius123/marius123/125
+#EXTINF:-1,MEGA COMEDY HD
+http://stellar.iptv.life:8000/marius123/marius123/126
+#EXTINF:-1,MEGA ACTION HD
+http://stellar.iptv.life:8000/marius123/marius123/127
+#EXTINF:-1,StarAction HD
+http://stellar.iptv.life:8000/marius123/marius123/128
+#EXTINF:-1,NionTV Action
+http://stellar.iptv.life:8000/marius123/marius123/129
+#EXTINF:-1,NionTV Kids
+http://stellar.iptv.life:8000/marius123/marius123/130
+#EXTINF:-1,NionTV Comedy
+http://stellar.iptv.life:8000/marius123/marius123/131
+#EXTINF:-1,net Aventura
+http://stellar.iptv.life:8000/marius123/marius123/4771
+#EXTINF:-1,net Actiune
+http://stellar.iptv.life:8000/marius123/marius123/4772
+#EXTINF:-1,net Karate
+http://stellar.iptv.life:8000/marius123/marius123/4773
+#EXTINF:-1,net Bollywood
+http://stellar.iptv.life:8000/marius123/marius123/4774
+#EXTINF:-1,net RomaniAuTalent
+http://stellar.iptv.life:8000/marius123/marius123/4775
+#EXTINF:-1,HBO F_HD
+http://stellar.iptv.life:8000/marius123/marius123/132
+#EXTINF:-1,HBO
+http://stellar.iptv.life:8000/marius123/marius123/133
+#EXTINF:-1,HBO 2 F_HD
+http://stellar.iptv.life:8000/marius123/marius123/134
+#EXTINF:-1,HBO 2
+http://stellar.iptv.life:8000/marius123/marius123/135
+#EXTINF:-1,HBO 3 F_HD
+http://stellar.iptv.life:8000/marius123/marius123/136
+#EXTINF:-1,HBO 3
+http://stellar.iptv.life:8000/marius123/marius123/137
+#EXTINF:-1,Cinemax Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/138
+#EXTINF:-1,Cinemax
+http://stellar.iptv.life:8000/marius123/marius123/139
+#EXTINF:-1,Cinemax 2
+http://stellar.iptv.life:8000/marius123/marius123/140
+#EXTINF:-1,Film Now Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/141
+#EXTINF:-1,Film Now HD
+http://stellar.iptv.life:8000/marius123/marius123/142
+#EXTINF:-1,Film Now
+http://stellar.iptv.life:8000/marius123/marius123/143
+#EXTINF:-1,FilmBoxExtra Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/144
+#EXTINF:-1,Film Box
+http://stellar.iptv.life:8000/marius123/marius123/145
+#EXTINF:-1,Filmbox Family
+http://stellar.iptv.life:8000/marius123/marius123/146
+#EXTINF:-1,FilmBox Premium
+http://stellar.iptv.life:8000/marius123/marius123/147
+#EXTINF:-1,Cinemaraton
+http://stellar.iptv.life:8000/marius123/marius123/148
+#EXTINF:-1,Bollywood Tv HD
+http://stellar.iptv.life:8000/marius123/marius123/149
+#EXTINF:-1,Bollywood TV
+http://stellar.iptv.life:8000/marius123/marius123/150
+#EXTINF:-1,Bollywood Classic
+http://stellar.iptv.life:8000/marius123/marius123/151
+#EXTINF:-1,AXN RO HD
+http://stellar.iptv.life:8000/marius123/marius123/152
+#EXTINF:-1,Axn
+http://stellar.iptv.life:8000/marius123/marius123/153
+#EXTINF:-1,AXN White
+http://stellar.iptv.life:8000/marius123/marius123/154
+#EXTINF:-1,AXN Black
+http://stellar.iptv.life:8000/marius123/marius123/155
+#EXTINF:-1,AXN Spin
+http://stellar.iptv.life:8000/marius123/marius123/156
+#EXTINF:-1,TV 1000
+http://stellar.iptv.life:8000/marius123/marius123/157
+#EXTINF:-1,Diva Tv
+http://stellar.iptv.life:8000/marius123/marius123/158
+#EXTINF:-1,Comedy Central
+http://stellar.iptv.life:8000/marius123/marius123/159
+#EXTINF:-1,Paramount Channel
+http://stellar.iptv.life:8000/marius123/marius123/160
+#EXTINF:-1,AMC
+http://stellar.iptv.life:8000/marius123/marius123/161
+#EXTINF:-1,TNT
+http://stellar.iptv.life:8000/marius123/marius123/162
+#EXTINF:-1,Film Cafe
+http://stellar.iptv.life:8000/marius123/marius123/163
+#EXTINF:-1,Epic Drama HD
+http://stellar.iptv.life:8000/marius123/marius123/4777
+#EXTINF:-1,Epic Drama
+http://stellar.iptv.life:8000/marius123/marius123/164
+#EXTINF:-1,Viasat Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/165
+#EXTINF:-1,History Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/166
 #EXTINF:-1,Viasat History
-http://188.27.9.55:9981/stream/channelid/777145586
-#EXTINF:-1,Viasat History HD
-http://188.27.9.55:9981/stream/channelid/1271227989
-#EXTINF:-1,Viasat Nature
-http://188.27.9.55:9981/stream/channelid/1098936132
-#EXTINF:-1,Viasat Nature HD
-http://188.27.9.55:9981/stream/channelid/1318380
-#EXTINF:-1,Virgin Radio
-http://188.27.9.55:9981/stream/channelid/1744655918
-#EXTINF:-1,ZU TV
-http://188.27.9.55:9981/stream/channelid/1057827591
-#EXTINF:-1,ZU TV HD
-http://188.27.9.55:9981/stream/channelid/1626998500
+http://stellar.iptv.life:8000/marius123/marius123/167
+#EXTINF:-1,Viasat Explore
+http://stellar.iptv.life:8000/marius123/marius123/168
+#EXTINF:-1,BBC Earth F_HD
+http://stellar.iptv.life:8000/marius123/marius123/169
+#EXTINF:-1,BBC Earth
+http://stellar.iptv.life:8000/marius123/marius123/170
+#EXTINF:-1,DiscoveryTurboXtra Utra_HD
+http://stellar.iptv.life:8000/marius123/marius123/171
+#EXTINF:-1,Discovery Showcase Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/172
+#EXTINF:-1,Discovery RO
+http://stellar.iptv.life:8000/marius123/marius123/173
+#EXTINF:-1,Discovery Science
+http://stellar.iptv.life:8000/marius123/marius123/174
+#EXTINF:-1,Viasat Explore HD
+http://stellar.iptv.life:8000/marius123/marius123/175
+#EXTINF:-1,Discovery ID
+http://stellar.iptv.life:8000/marius123/marius123/176
+#EXTINF:-1,Nat Geo F_HD
+http://stellar.iptv.life:8000/marius123/marius123/177
+#EXTINF:-1,Animal Planet F_HD
+http://stellar.iptv.life:8000/marius123/marius123/178
+#EXTINF:-1,Animal Planet
+http://stellar.iptv.life:8000/marius123/marius123/179
+#EXTINF:-1,Nat Geo Wild F_HD
+http://stellar.iptv.life:8000/marius123/marius123/180
+#EXTINF:-1,Nat Geo Wild
+http://stellar.iptv.life:8000/marius123/marius123/182
+#EXTINF:-1,Travel Channel F_HD
+http://stellar.iptv.life:8000/marius123/marius123/183
+#EXTINF:-1,Crime&Investigation
+http://stellar.iptv.life:8000/marius123/marius123/184
+#EXTINF:-1,History
+http://stellar.iptv.life:8000/marius123/marius123/185
+#EXTINF:-1,DocuBox
+http://stellar.iptv.life:8000/marius123/marius123/186
+#EXTINF:-1,DIGI ANIMAL WORLD Full_HD
+http://stellar.iptv.life:8000/marius123/marius123/187
+#EXTINF:-1,Digi Animal World
+http://stellar.iptv.life:8000/marius123/marius123/188
+#EXTINF:-1,DIGI WORLD Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/189
+#EXTINF:-1,Digi World
+http://stellar.iptv.life:8000/marius123/marius123/190
+#EXTINF:-1,DIGI Life F_HD
+http://stellar.iptv.life:8000/marius123/marius123/191
+#EXTINF:-1,Digi Life
+http://stellar.iptv.life:8000/marius123/marius123/192
+#EXTINF:-1,ARCADIA World HD
+http://stellar.iptv.life:8000/marius123/marius123/193
+#EXTINF:-1,Fishing and Hunting
+http://stellar.iptv.life:8000/marius123/marius123/194
+#EXTINF:-1,Travel Channel
+http://stellar.iptv.life:8000/marius123/marius123/195
+#EXTINF:-1,CBS Reality
+http://stellar.iptv.life:8000/marius123/marius123/196
+#EXTINF:-1,E! Entertainment Ultra_HD
+http://stellar.iptv.life:8000/marius123/marius123/197
+#EXTINF:-1,E! Entertainment
+http://stellar.iptv.life:8000/marius123/marius123/198
+#EXTINF:-1,Travel MIX
+http://stellar.iptv.life:8000/marius123/marius123/199
+#EXTINF:-1,Fine Living
+http://stellar.iptv.life:8000/marius123/marius123/200
+#EXTINF:-1,Food Network
+http://stellar.iptv.life:8000/marius123/marius123/201
+#EXTINF:-1,TV Paprika
+http://stellar.iptv.life:8000/marius123/marius123/202
+#EXTINF:-1,TLC
+http://stellar.iptv.life:8000/marius123/marius123/203
+#EXTINF:-1,LunaTv HD Cartoons
+http://stellar.iptv.life:8000/marius123/marius123/204
+#EXTINF:-1,Nickelodeon
+http://stellar.iptv.life:8000/marius123/marius123/205
+#EXTINF:-1,Nick Jr
+http://stellar.iptv.life:8000/marius123/marius123/206
+#EXTINF:-1,Disney JR
+http://stellar.iptv.life:8000/marius123/marius123/207
+#EXTINF:-1,Disney Channel
+http://stellar.iptv.life:8000/marius123/marius123/208
+#EXTINF:-1,Minimax RO
+http://stellar.iptv.life:8000/marius123/marius123/209
+#EXTINF:-1,Boomerang
+http://stellar.iptv.life:8000/marius123/marius123/210
+#EXTINF:-1,Nicktoons
+http://stellar.iptv.life:8000/marius123/marius123/211
+#EXTINF:-1,MEGA KIDS
+http://stellar.iptv.life:8000/marius123/marius123/241
+#EXTINF:-1,24/7 Kids Disney
+http://stellar.iptv.life:8000/marius123/marius123/4776
+#EXTINF:-1,Cartoon Network
+http://stellar.iptv.life:8000/marius123/marius123/246
+#EXTINF:-1,Megamax
+http://stellar.iptv.life:8000/marius123/marius123/212
+#EXTINF:-1,DuckTV
+http://stellar.iptv.life:8000/marius123/marius123/213
+#EXTINF:-1,Jim Jam
+http://stellar.iptv.life:8000/marius123/marius123/214
+#EXTINF:-1,MEGA TOM&JERRY
+http://stellar.iptv.life:8000/marius123/marius123/215
